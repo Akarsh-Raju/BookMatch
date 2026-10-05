@@ -1,0 +1,301 @@
+Book_ID,Title,Author,Publication_Year,Primary_Category,Genre_Fantasy,Genre_Sci_Fi,Genre_Mystery_Crime,Genre_Thriller_Suspense,Genre_Romance,Genre_Historical,Genre_Horror_Gothic,Genre_Dystopian,Genre_Adventure_Action,Genre_Literary_Classic,Genre_Young_Adult,Genre_Philosophical_Psychological,Attr_Darkness_Tone,Attr_Pacing_Speed,Attr_Worldbuilding_Depth,Attr_Emotional_Intensity,Attr_Prose_Complexity,Attr_Plot_vs_Character,Attr_Humor_Satire,Attr_Epic_Scale
+1,The Fellowship of the Ring,J.R.R. Tolkien,1954,Fantasy,1.0,0.0,0.0,0.2,0.1,0.0,0.1,0.0,1.0,0.8,0.3,0.3,0.5,0.5,1.0,0.7,0.8,0.7,0.2,1.0
+2,A Game of Thrones,George R.R. Martin,1996,Fantasy,1.0,0.0,0.4,0.6,0.2,0.3,0.2,0.0,0.8,0.2,0.0,0.4,0.9,0.7,1.0,0.8,0.7,0.8,0.2,1.0
+3,The Name of the Wind,Patrick Rothfuss,2007,Fantasy,1.0,0.0,0.3,0.2,0.4,0.0,0.1,0.0,0.8,0.4,0.3,0.3,0.6,0.6,0.9,0.8,0.9,0.5,0.3,0.9
+4,The Way of Kings,Brandon Sanderson,2010,Fantasy,1.0,0.1,0.2,0.4,0.1,0.0,0.0,0.0,0.9,0.1,0.2,0.4,0.6,0.6,1.0,0.8,0.6,0.8,0.2,1.0
+5,Mistborn: The Final Empire,Brandon Sanderson,2006,Fantasy,1.0,0.0,0.4,0.6,0.3,0.0,0.1,0.4,1.0,0.0,0.5,0.2,0.7,0.8,0.9,0.7,0.5,0.9,0.2,0.8
+6,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,Fantasy,1.0,0.0,0.5,0.3,0.0,0.0,0.0,0.0,0.8,0.2,1.0,0.0,0.2,0.8,0.9,0.6,0.3,0.8,0.5,0.6
+7,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1999,Fantasy,1.0,0.0,0.6,0.5,0.0,0.0,0.2,0.0,0.8,0.2,1.0,0.1,0.4,0.8,0.9,0.7,0.4,0.8,0.4,0.7
+8,The Hobbit,J.R.R. Tolkien,1937,Fantasy,1.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,1.0,0.7,0.6,0.1,0.3,0.7,0.9,0.5,0.6,0.8,0.5,0.8
+9,The Lies of Locke Lamora,Scott Lynch,2006,Fantasy,1.0,0.0,0.7,0.6,0.1,0.2,0.1,0.0,0.9,0.1,0.0,0.2,0.7,0.8,0.8,0.7,0.7,0.8,0.6,0.7
+10,The Blade Itself,Joe Abercrombie,2006,Fantasy,1.0,0.0,0.2,0.5,0.1,0.1,0.2,0.0,0.8,0.1,0.0,0.5,0.9,0.6,0.8,0.6,0.6,0.4,0.5,0.8
+11,American Gods,Neil Gaiman,2001,Fantasy,1.0,0.0,0.4,0.3,0.1,0.1,0.4,0.0,0.6,0.4,0.0,0.6,0.7,0.4,0.8,0.6,0.7,0.4,0.4,0.8
+12,Good Omens,Neil Gaiman & Terry Pratchett,1990,Fantasy,1.0,0.0,0.1,0.1,0.1,0.0,0.1,0.1,0.6,0.3,0.3,0.4,0.2,0.8,0.6,0.4,0.6,0.7,1.0,0.6
+13,Guards! Guards!,Terry Pratchett,1989,Fantasy,1.0,0.0,0.6,0.1,0.1,0.0,0.0,0.0,0.7,0.3,0.3,0.4,0.2,0.8,0.8,0.4,0.6,0.7,1.0,0.5
+14,Circe,Madeline Miller,2018,Fantasy,1.0,0.0,0.0,0.1,0.4,0.7,0.0,0.0,0.4,0.6,0.1,0.5,0.5,0.4,0.8,0.8,0.8,0.2,0.1,0.7
+15,The Song of Achilles,Madeline Miller,2011,Fantasy,0.8,0.0,0.0,0.1,0.9,0.8,0.0,0.0,0.6,0.6,0.3,0.4,0.6,0.5,0.7,0.9,0.8,0.3,0.1,0.7
+16,Piranesi,Susanna Clarke,2020,Fantasy,1.0,0.0,0.7,0.3,0.0,0.0,0.2,0.0,0.2,0.6,0.0,0.8,0.5,0.5,0.9,0.7,0.8,0.4,0.1,0.4
+17,Jonathan Strange & Mr Norrell,Susanna Clarke,2004,Fantasy,1.0,0.0,0.2,0.1,0.1,0.9,0.2,0.0,0.3,0.8,0.0,0.4,0.5,0.2,0.9,0.5,0.9,0.4,0.5,0.9
+18,A Wizard of Earthsea,Ursula K. Le Guin,1968,Fantasy,1.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.7,0.8,0.6,0.7,0.4,0.5,0.9,0.6,0.8,0.4,0.0,0.7
+19,"The Lion, the Witch and the Wardrobe",C.S. Lewis,1950,Fantasy,1.0,0.0,0.0,0.1,0.0,0.1,0.0,0.0,0.8,0.7,0.9,0.3,0.2,0.8,0.8,0.5,0.3,0.8,0.2,0.6
+20,The Priory of the Orange Tree,Samantha Shannon,2019,Fantasy,1.0,0.0,0.1,0.3,0.5,0.0,0.0,0.0,0.8,0.1,0.3,0.2,0.5,0.5,0.9,0.7,0.6,0.7,0.1,1.0
+21,Jade City,Fonda Lee,2017,Fantasy,0.9,0.0,0.5,0.7,0.2,0.1,0.0,0.0,0.8,0.1,0.0,0.3,0.8,0.7,0.9,0.7,0.6,0.7,0.1,0.8
+22,The Poppy War,R.F. Kuang,2018,Fantasy,1.0,0.0,0.0,0.4,0.1,0.6,0.3,0.2,0.8,0.2,0.2,0.5,1.0,0.7,0.8,0.8,0.6,0.7,0.1,0.9
+23,Babel,R.F. Kuang,2022,Fantasy,0.8,0.0,0.2,0.4,0.1,0.9,0.0,0.3,0.4,0.6,0.2,0.7,0.8,0.5,0.9,0.8,0.8,0.6,0.1,0.8
+24,The Night Circus,Erin Morgenstern,2011,Fantasy,1.0,0.0,0.3,0.1,0.8,0.6,0.0,0.0,0.3,0.4,0.3,0.2,0.3,0.3,0.9,0.7,0.8,0.3,0.1,0.6
+25,Six of Crows,Leigh Bardugo,2015,Fantasy,1.0,0.0,0.6,0.7,0.5,0.0,0.0,0.0,0.9,0.0,0.9,0.1,0.6,0.9,0.8,0.7,0.5,0.8,0.4,0.6
+26,A Court of Thorns and Roses,Sarah J. Maas,2015,Fantasy,1.0,0.0,0.1,0.3,1.0,0.0,0.0,0.0,0.7,0.0,0.7,0.0,0.5,0.8,0.8,0.8,0.4,0.7,0.2,0.7
+27,Fourth Wing,Rebecca Yarros,2023,Fantasy,1.0,0.0,0.1,0.5,0.9,0.0,0.0,0.2,0.9,0.0,0.7,0.0,0.6,0.9,0.7,0.8,0.3,0.8,0.3,0.7
+28,Assassin's Apprentice,Robin Hobb,1995,Fantasy,1.0,0.0,0.2,0.3,0.2,0.0,0.0,0.0,0.6,0.3,0.2,0.5,0.7,0.4,0.8,0.9,0.7,0.2,0.1,0.8
+29,The Eye of the World,Robert Jordan,1990,Fantasy,1.0,0.0,0.1,0.3,0.2,0.0,0.1,0.0,0.9,0.2,0.4,0.2,0.5,0.5,1.0,0.6,0.6,0.8,0.1,1.0
+30,Gideon the Ninth,Tamsyn Muir,2019,Fantasy,0.9,0.6,0.7,0.5,0.2,0.0,0.6,0.1,0.7,0.1,0.3,0.2,0.8,0.7,0.9,0.6,0.8,0.7,0.7,0.7
+31,Dune,Frank Herbert,1965,Sci_Fi,0.4,1.0,0.2,0.5,0.1,0.0,0.0,0.3,0.8,0.7,0.0,0.8,0.7,0.5,1.0,0.6,0.8,0.8,0.0,1.0
+32,Project Hail Mary,Andy Weir,2021,Sci_Fi,0.0,1.0,0.4,0.6,0.0,0.0,0.0,0.1,0.9,0.0,0.2,0.2,0.3,0.9,0.8,0.7,0.4,0.9,0.7,0.8
+33,The Martian,Andy Weir,2011,Sci_Fi,0.0,1.0,0.1,0.7,0.0,0.0,0.0,0.0,0.9,0.0,0.2,0.1,0.2,0.9,0.6,0.5,0.4,0.9,0.8,0.5
+34,Foundation,Isaac Asimov,1951,Sci_Fi,0.0,1.0,0.2,0.2,0.0,0.2,0.0,0.1,0.4,0.7,0.0,0.8,0.4,0.5,0.9,0.2,0.6,0.9,0.1,1.0
+35,Neuromancer,William Gibson,1984,Sci_Fi,0.0,1.0,0.6,0.7,0.1,0.0,0.0,0.8,0.8,0.5,0.0,0.6,0.9,0.7,0.9,0.4,0.9,0.8,0.1,0.7
+36,The Three-Body Problem,Cixin Liu,2008,Sci_Fi,0.0,1.0,0.6,0.5,0.0,0.4,0.1,0.2,0.3,0.3,0.0,0.9,0.7,0.6,0.9,0.3,0.7,0.9,0.0,1.0
+37,Hyperion,Dan Simmons,1989,Sci_Fi,0.3,1.0,0.5,0.4,0.2,0.0,0.5,0.1,0.7,0.6,0.0,0.8,0.8,0.5,1.0,0.8,0.9,0.6,0.2,1.0
+38,Ender's Game,Orson Scott Card,1985,Sci_Fi,0.0,1.0,0.1,0.6,0.0,0.0,0.0,0.3,0.8,0.4,0.8,0.6,0.6,0.8,0.7,0.8,0.4,0.7,0.1,0.8
+39,The Left Hand of Darkness,Ursula K. Le Guin,1969,Sci_Fi,0.2,1.0,0.0,0.2,0.2,0.0,0.0,0.0,0.5,0.8,0.0,0.9,0.5,0.3,0.9,0.7,0.8,0.3,0.1,0.7
+40,Do Androids Dream of Electric Sheep?,Philip K. Dick,1968,Sci_Fi,0.0,1.0,0.6,0.5,0.0,0.0,0.0,0.8,0.5,0.6,0.0,0.9,0.8,0.6,0.7,0.5,0.6,0.6,0.2,0.5
+41,Ubik,Philip K. Dick,1969,Sci_Fi,0.1,1.0,0.6,0.6,0.0,0.0,0.2,0.3,0.4,0.5,0.0,0.9,0.7,0.7,0.7,0.4,0.6,0.8,0.4,0.5
+42,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,Sci_Fi,0.1,1.0,0.0,0.0,0.1,0.0,0.0,0.0,0.8,0.5,0.4,0.6,0.1,0.9,0.8,0.2,0.5,0.7,1.0,0.8
+43,Snow Crash,Neal Stephenson,1992,Sci_Fi,0.0,1.0,0.5,0.7,0.1,0.0,0.0,0.8,0.9,0.2,0.0,0.6,0.6,0.8,0.9,0.3,0.7,0.8,0.8,0.7
+44,Dark Matter,Blake Crouch,2016,Sci_Fi,0.0,1.0,0.6,1.0,0.5,0.0,0.1,0.1,0.8,0.0,0.0,0.4,0.6,1.0,0.6,0.7,0.3,0.9,0.1,0.6
+45,Recursion,Blake Crouch,2019,Sci_Fi,0.0,1.0,0.6,1.0,0.4,0.0,0.1,0.3,0.8,0.0,0.0,0.5,0.7,1.0,0.6,0.7,0.4,0.9,0.0,0.8
+46,Children of Time,Adrian Tchaikovsky,2015,Sci_Fi,0.0,1.0,0.1,0.4,0.0,0.0,0.0,0.2,0.7,0.1,0.0,0.7,0.5,0.6,1.0,0.5,0.7,0.8,0.1,1.0
+47,Red Rising,Pierce Brown,2014,Sci_Fi,0.3,1.0,0.1,0.8,0.2,0.0,0.0,0.9,1.0,0.0,0.7,0.2,0.8,0.9,0.8,0.8,0.5,0.9,0.1,0.8
+48,Leviathan Wakes,James S.A. Corey,2011,Sci_Fi,0.0,1.0,0.7,0.8,0.1,0.0,0.3,0.2,0.9,0.0,0.0,0.2,0.7,0.8,0.9,0.6,0.5,0.9,0.3,0.9
+49,Slaughterhouse-Five,Kurt Vonnegut,1969,Sci_Fi,0.0,0.8,0.0,0.1,0.0,0.8,0.0,0.2,0.2,1.0,0.0,0.9,0.8,0.7,0.5,0.8,0.6,0.3,0.9,0.6
+50,Cat's Cradle,Kurt Vonnegut,1963,Sci_Fi,0.0,0.8,0.1,0.2,0.0,0.0,0.0,0.6,0.2,0.9,0.0,0.9,0.7,0.8,0.6,0.5,0.5,0.5,1.0,0.6
+51,The War of the Worlds,H.G. Wells,1898,Sci_Fi,0.0,1.0,0.0,0.7,0.0,0.2,0.4,0.4,0.8,0.9,0.2,0.3,0.7,0.8,0.6,0.5,0.6,0.9,0.0,0.7
+52,The Time Machine,H.G. Wells,1895,Sci_Fi,0.1,1.0,0.1,0.4,0.0,0.1,0.2,0.7,0.8,0.9,0.3,0.7,0.6,0.8,0.7,0.4,0.6,0.8,0.0,0.8
+53,2001: A Space Odyssey,Arthur C. Clarke,1968,Sci_Fi,0.0,1.0,0.3,0.5,0.0,0.0,0.1,0.0,0.7,0.7,0.0,0.9,0.4,0.5,0.9,0.3,0.6,0.8,0.0,1.0
+54,Childhood's End,Arthur C. Clarke,1953,Sci_Fi,0.0,1.0,0.3,0.2,0.0,0.0,0.0,0.3,0.2,0.7,0.0,1.0,0.6,0.5,0.8,0.6,0.6,0.7,0.0,1.0
+55,Solaris,Stanislaw Lem,1961,Sci_Fi,0.0,1.0,0.5,0.4,0.2,0.0,0.3,0.0,0.1,0.8,0.0,1.0,0.7,0.3,0.8,0.7,0.8,0.3,0.0,0.6
+56,Annihilation,Jeff VanderMeer,2014,Sci_Fi,0.2,0.9,0.7,0.7,0.0,0.0,0.8,0.2,0.5,0.4,0.0,0.8,0.8,0.6,0.8,0.5,0.7,0.5,0.0,0.4
+57,Exhalation,Ted Chiang,2019,Sci_Fi,0.1,1.0,0.2,0.1,0.0,0.0,0.0,0.1,0.2,0.6,0.0,1.0,0.4,0.5,0.8,0.7,0.8,0.5,0.1,0.7
+58,"The Long Way to a Small, Angry Planet",Becky Chambers,2014,Sci_Fi,0.0,1.0,0.0,0.1,0.4,0.0,0.0,0.0,0.5,0.0,0.2,0.3,0.1,0.4,0.8,0.7,0.4,0.1,0.5,0.6
+59,All Systems Red,Martha Wells,2017,Sci_Fi,0.0,1.0,0.5,0.6,0.0,0.0,0.0,0.3,0.8,0.0,0.2,0.4,0.4,0.9,0.6,0.5,0.4,0.6,0.8,0.4
+60,This Is How You Lose the Time War,Amal El-Mohtar & Max Gladstone,2019,Sci_Fi,0.4,1.0,0.2,0.3,1.0,0.2,0.0,0.2,0.4,0.6,0.0,0.5,0.5,0.6,0.8,0.9,1.0,0.4,0.2,0.8
+61,1984,George Orwell,1949,Dystopian,0.0,0.6,0.1,0.6,0.2,0.0,0.2,1.0,0.1,1.0,0.0,1.0,1.0,0.5,0.8,0.8,0.6,0.6,0.1,0.7
+62,Brave New World,Aldous Huxley,1932,Dystopian,0.0,0.8,0.0,0.2,0.1,0.0,0.0,1.0,0.1,1.0,0.0,1.0,0.8,0.5,0.8,0.5,0.7,0.5,0.4,0.7
+63,Fahrenheit 451,Ray Bradbury,1953,Dystopian,0.0,0.7,0.0,0.5,0.0,0.0,0.0,1.0,0.4,1.0,0.3,0.9,0.8,0.7,0.6,0.7,0.8,0.6,0.1,0.5
+64,The Handmaid's Tale,Margaret Atwood,1985,Dystopian,0.0,0.5,0.1,0.5,0.1,0.0,0.2,1.0,0.1,0.9,0.0,0.9,0.9,0.4,0.8,0.9,0.8,0.3,0.1,0.6
+65,The Road,Cormac McCarthy,2006,Dystopian,0.0,0.3,0.0,0.6,0.0,0.0,0.6,1.0,0.4,0.9,0.0,0.8,1.0,0.4,0.5,1.0,0.9,0.3,0.0,0.5
+66,The Hunger Games,Suzanne Collins,2008,Dystopian,0.0,0.6,0.0,0.9,0.5,0.0,0.0,1.0,1.0,0.0,1.0,0.2,0.7,1.0,0.7,0.8,0.3,0.9,0.1,0.7
+67,Catching Fire,Suzanne Collins,2009,Dystopian,0.0,0.6,0.1,0.9,0.6,0.0,0.0,1.0,1.0,0.0,1.0,0.3,0.7,0.9,0.8,0.8,0.3,0.9,0.1,0.8
+68,The Giver,Lois Lowry,1993,Dystopian,0.1,0.6,0.2,0.3,0.0,0.0,0.0,1.0,0.3,0.6,1.0,0.7,0.6,0.7,0.7,0.8,0.3,0.6,0.0,0.4
+69,Never Let Me Go,Kazuo Ishiguro,2005,Dystopian,0.0,0.6,0.3,0.1,0.4,0.0,0.0,0.8,0.0,0.9,0.2,0.8,0.8,0.2,0.5,0.9,0.8,0.1,0.0,0.4
+70,Station Eleven,Emily St. John Mandel,2014,Dystopian,0.0,0.5,0.2,0.3,0.1,0.0,0.0,0.9,0.3,0.7,0.0,0.6,0.6,0.5,0.6,0.8,0.8,0.4,0.1,0.7
+71,A Clockwork Orange,Anthony Burgess,1962,Dystopian,0.0,0.5,0.4,0.5,0.0,0.0,0.3,1.0,0.3,0.9,0.0,1.0,0.9,0.6,0.7,0.5,1.0,0.5,0.5,0.4
+72,Parable of the Sower,Octavia E. Butler,1993,Dystopian,0.0,0.6,0.0,0.6,0.1,0.0,0.3,1.0,0.6,0.7,0.2,0.9,0.9,0.6,0.7,0.9,0.6,0.6,0.0,0.7
+73,The Stand,Stephen King,1978,Dystopian,0.5,0.4,0.1,0.7,0.1,0.0,0.8,1.0,0.8,0.2,0.0,0.5,0.8,0.5,0.8,0.7,0.5,0.6,0.1,1.0
+74,Wool (Silo),Hugh Howey,2011,Dystopian,0.0,0.8,0.7,0.8,0.1,0.0,0.0,1.0,0.6,0.0,0.1,0.3,0.7,0.7,0.8,0.6,0.4,0.8,0.0,0.7
+75,The Maze Runner,James Dashner,2009,Dystopian,0.0,0.7,0.8,0.9,0.1,0.0,0.2,1.0,1.0,0.0,1.0,0.1,0.7,0.9,0.7,0.5,0.3,0.9,0.0,0.6
+76,Divergent,Veronica Roth,2011,Dystopian,0.0,0.6,0.2,0.8,0.6,0.0,0.0,1.0,0.9,0.0,1.0,0.1,0.6,0.9,0.7,0.6,0.3,0.8,0.0,0.6
+77,Oryx and Crake,Margaret Atwood,2003,Dystopian,0.0,0.8,0.2,0.3,0.2,0.0,0.1,1.0,0.3,0.8,0.0,0.8,0.8,0.4,0.8,0.7,0.8,0.4,0.4,0.7
+78,World War Z,Max Brooks,2006,Dystopian,0.0,0.5,0.1,0.8,0.0,0.1,0.8,0.9,0.8,0.0,0.0,0.5,0.8,0.8,0.8,0.6,0.5,0.8,0.2,1.0
+79,Blindness,Jose Saramago,1995,Dystopian,0.0,0.2,0.0,0.6,0.0,0.0,0.4,0.9,0.2,0.9,0.0,1.0,0.9,0.4,0.4,0.8,1.0,0.4,0.1,0.6
+80,Battle Royale,Koushun Takami,1999,Dystopian,0.0,0.3,0.1,1.0,0.2,0.0,0.6,1.0,1.0,0.0,0.6,0.3,0.9,1.0,0.5,0.7,0.4,0.9,0.0,0.6
+81,And Then There Were None,Agatha Christie,1939,Mystery_Crime,0.0,0.0,1.0,0.9,0.0,0.2,0.2,0.0,0.2,0.6,0.0,0.3,0.7,0.9,0.3,0.4,0.4,1.0,0.0,0.3
+82,Murder on the Orient Express,Agatha Christie,1934,Mystery_Crime,0.0,0.0,1.0,0.6,0.0,0.3,0.0,0.0,0.2,0.6,0.0,0.3,0.4,0.8,0.3,0.4,0.4,1.0,0.2,0.3
+83,The Murder of Roger Ackroyd,Agatha Christie,1926,Mystery_Crime,0.0,0.0,1.0,0.6,0.0,0.2,0.0,0.0,0.0,0.6,0.0,0.3,0.4,0.7,0.3,0.3,0.4,1.0,0.2,0.3
+84,The Hound of the Baskervilles,Arthur Conan Doyle,1902,Mystery_Crime,0.0,0.0,1.0,0.6,0.0,0.3,0.4,0.0,0.5,0.8,0.2,0.1,0.5,0.8,0.5,0.3,0.6,0.9,0.1,0.4
+85,A Study in Scarlet,Arthur Conan Doyle,1887,Mystery_Crime,0.0,0.0,1.0,0.5,0.0,0.3,0.0,0.0,0.5,0.8,0.2,0.1,0.5,0.8,0.4,0.3,0.5,0.9,0.1,0.4
+86,The Girl with the Dragon Tattoo,Stieg Larsson,2005,Mystery_Crime,0.0,0.0,1.0,0.9,0.1,0.0,0.2,0.0,0.4,0.0,0.0,0.3,0.9,0.7,0.4,0.6,0.5,0.8,0.0,0.6
+87,Gone Girl,Gillian Flynn,2012,Mystery_Crime,0.0,0.0,0.9,1.0,0.2,0.0,0.1,0.0,0.1,0.0,0.0,0.8,0.8,0.9,0.2,0.7,0.6,0.8,0.3,0.4
+88,Sharp Objects,Gillian Flynn,2006,Mystery_Crime,0.0,0.0,0.9,0.9,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.9,0.9,0.7,0.3,0.8,0.6,0.5,0.0,0.3
+89,The Big Sleep,Raymond Chandler,1939,Mystery_Crime,0.0,0.0,1.0,0.6,0.1,0.2,0.0,0.0,0.4,0.7,0.0,0.2,0.7,0.7,0.4,0.3,0.7,0.7,0.4,0.4
+90,The Maltese Falcon,Dashiell Hammett,1930,Mystery_Crime,0.0,0.0,1.0,0.7,0.1,0.2,0.0,0.0,0.4,0.7,0.0,0.2,0.7,0.8,0.3,0.3,0.6,0.8,0.2,0.4
+91,The Name of the Rose,Umberto Eco,1980,Mystery_Crime,0.0,0.0,0.9,0.4,0.0,1.0,0.2,0.0,0.1,0.9,0.0,0.9,0.7,0.2,0.9,0.4,1.0,0.6,0.2,0.7
+92,The Secret History,Donna Tartt,1992,Mystery_Crime,0.0,0.0,0.8,0.6,0.1,0.0,0.2,0.0,0.0,0.8,0.0,0.9,0.8,0.4,0.6,0.7,0.9,0.3,0.3,0.5
+93,In the Woods,Tana French,2007,Mystery_Crime,0.0,0.0,1.0,0.7,0.1,0.0,0.1,0.0,0.0,0.3,0.0,0.8,0.8,0.5,0.4,0.8,0.7,0.5,0.1,0.4
+94,The Thursday Murder Club,Richard Osman,2020,Mystery_Crime,0.0,0.0,1.0,0.2,0.1,0.0,0.0,0.0,0.1,0.0,0.0,0.1,0.2,0.7,0.3,0.5,0.4,0.6,0.9,0.3
+95,The 7 1/2 Deaths of Evelyn Hardcastle,Stuart Turton,2018,Mystery_Crime,0.3,0.4,1.0,0.8,0.0,0.3,0.1,0.0,0.4,0.0,0.0,0.4,0.6,0.8,0.7,0.4,0.7,1.0,0.2,0.5
+96,Magpie Murders,Anthony Horowitz,2016,Mystery_Crime,0.0,0.0,1.0,0.5,0.0,0.2,0.0,0.0,0.1,0.1,0.0,0.2,0.4,0.7,0.5,0.3,0.6,0.9,0.4,0.5
+97,Rebecca,Daphne du Maurier,1938,Mystery_Crime,0.0,0.0,0.8,0.8,0.6,0.3,0.7,0.0,0.0,0.8,0.0,0.6,0.7,0.5,0.5,0.8,0.7,0.5,0.0,0.4
+98,Mystic River,Dennis Lehane,2001,Mystery_Crime,0.0,0.0,1.0,0.8,0.0,0.0,0.0,0.0,0.1,0.3,0.0,0.7,0.9,0.6,0.4,0.9,0.6,0.6,0.0,0.5
+99,The Godfather,Mario Puzo,1969,Mystery_Crime,0.0,0.0,1.0,0.7,0.1,0.4,0.0,0.0,0.5,0.4,0.0,0.3,0.8,0.7,0.6,0.6,0.5,0.7,0.0,0.8
+100,In Cold Blood,Truman Capote,1966,Mystery_Crime,0.0,0.0,1.0,0.6,0.0,0.3,0.2,0.0,0.0,0.8,0.0,0.8,0.9,0.5,0.4,0.8,0.8,0.5,0.0,0.5
+101,The Devotion of Suspect X,Keigo Higashino,2005,Mystery_Crime,0.0,0.0,1.0,0.8,0.2,0.0,0.0,0.0,0.0,0.1,0.0,0.7,0.6,0.8,0.2,0.7,0.4,0.9,0.0,0.3
+102,A Good Girl's Guide to Murder,Holly Jackson,2019,Mystery_Crime,0.0,0.0,1.0,0.8,0.3,0.0,0.0,0.0,0.2,0.0,1.0,0.1,0.5,0.9,0.3,0.6,0.3,0.9,0.3,0.3
+103,One of Us Is Lying,Karen M. McManus,2017,Mystery_Crime,0.0,0.0,1.0,0.7,0.4,0.0,0.0,0.0,0.1,0.0,1.0,0.1,0.4,0.9,0.2,0.5,0.3,0.8,0.2,0.3
+104,The Shadow of the Wind,Carlos Ruiz Zafon,2001,Mystery_Crime,0.2,0.0,0.9,0.6,0.6,0.8,0.5,0.0,0.4,0.6,0.0,0.4,0.7,0.6,0.7,0.8,0.8,0.6,0.2,0.7
+105,The Poet,Michael Connelly,1996,Mystery_Crime,0.0,0.0,1.0,0.9,0.1,0.0,0.1,0.0,0.3,0.0,0.0,0.3,0.8,0.9,0.3,0.5,0.4,0.9,0.0,0.4
+106,The Silence of the Lambs,Thomas Harris,1988,Thriller_Suspense,0.0,0.0,0.9,1.0,0.0,0.0,0.7,0.0,0.3,0.1,0.0,0.8,0.9,0.9,0.3,0.7,0.5,0.8,0.0,0.4
+107,Shutter Island,Dennis Lehane,2003,Thriller_Suspense,0.0,0.0,0.9,1.0,0.0,0.4,0.5,0.0,0.2,0.1,0.0,0.9,0.9,0.8,0.5,0.8,0.6,0.8,0.0,0.3
+108,The Da Vinci Code,Dan Brown,2003,Thriller_Suspense,0.0,0.0,0.8,1.0,0.1,0.4,0.0,0.0,0.9,0.0,0.0,0.1,0.4,1.0,0.5,0.3,0.3,1.0,0.0,0.6
+109,Angels & Demons,Dan Brown,2000,Thriller_Suspense,0.0,0.1,0.8,1.0,0.1,0.3,0.0,0.0,0.9,0.0,0.0,0.2,0.5,1.0,0.5,0.3,0.3,1.0,0.0,0.6
+110,The Silent Patient,Alex Michaelides,2019,Thriller_Suspense,0.0,0.0,0.8,1.0,0.1,0.0,0.1,0.0,0.0,0.0,0.0,0.9,0.7,0.9,0.2,0.7,0.4,0.8,0.0,0.3
+111,The Girl on the Train,Paula Hawkins,2015,Thriller_Suspense,0.0,0.0,0.9,1.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.8,0.8,0.2,0.7,0.4,0.8,0.0,0.3
+112,Jurassic Park,Michael Crichton,1990,Thriller_Suspense,0.0,0.9,0.1,1.0,0.0,0.0,0.4,0.0,1.0,0.0,0.2,0.3,0.6,1.0,0.6,0.4,0.4,1.0,0.0,0.6
+113,Sphere,Michael Crichton,1987,Thriller_Suspense,0.0,0.9,0.6,1.0,0.0,0.0,0.5,0.0,0.7,0.0,0.0,0.7,0.7,0.9,0.6,0.5,0.4,0.9,0.0,0.5
+114,The Bourne Identity,Robert Ludlum,1980,Thriller_Suspense,0.0,0.0,0.6,1.0,0.2,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.6,0.9,0.4,0.4,0.4,1.0,0.0,0.6
+115,The Hunt for Red October,Tom Clancy,1984,Thriller_Suspense,0.0,0.0,0.2,1.0,0.0,0.3,0.0,0.0,0.9,0.0,0.0,0.1,0.5,0.8,0.6,0.2,0.6,1.0,0.0,0.7
+116,The Day of the Jackal,Frederick Forsyth,1971,Thriller_Suspense,0.0,0.0,0.6,1.0,0.0,0.4,0.0,0.0,0.8,0.1,0.0,0.1,0.6,0.9,0.4,0.2,0.5,1.0,0.0,0.6
+117,Tinker Tailor Soldier Spy,John le Carre,1974,Thriller_Suspense,0.0,0.0,0.9,0.8,0.0,0.4,0.0,0.0,0.2,0.7,0.0,0.6,0.7,0.3,0.6,0.5,0.8,0.6,0.1,0.6
+118,The Spy Who Came in from the Cold,John le Carre,1963,Thriller_Suspense,0.0,0.0,0.7,0.9,0.2,0.4,0.0,0.0,0.3,0.7,0.0,0.6,0.8,0.6,0.5,0.7,0.7,0.7,0.0,0.5
+119,No Country for Old Men,Cormac McCarthy,2005,Thriller_Suspense,0.0,0.0,0.7,1.0,0.0,0.1,0.2,0.0,0.7,0.8,0.0,0.8,0.9,0.8,0.4,0.6,0.8,0.8,0.0,0.5
+120,Misery,Stephen King,1987,Thriller_Suspense,0.0,0.0,0.1,1.0,0.0,0.0,0.9,0.0,0.1,0.1,0.0,0.8,0.9,0.8,0.1,0.8,0.5,0.7,0.0,0.2
+121,Verity,Colleen Hoover,2018,Thriller_Suspense,0.0,0.0,0.6,1.0,0.7,0.0,0.4,0.0,0.0,0.0,0.0,0.7,0.8,1.0,0.1,0.8,0.2,0.9,0.0,0.2
+122,The Housemaid,Freida McFadden,2022,Thriller_Suspense,0.0,0.0,0.7,1.0,0.2,0.0,0.2,0.0,0.0,0.0,0.0,0.6,0.7,1.0,0.1,0.6,0.2,0.9,0.0,0.2
+123,Rock Paper Scissors,Alice Feeney,2021,Thriller_Suspense,0.0,0.0,0.8,1.0,0.2,0.0,0.2,0.0,0.0,0.0,0.0,0.7,0.7,0.9,0.2,0.6,0.4,0.8,0.0,0.2
+124,Before I Go to Sleep,S.J. Watson,2011,Thriller_Suspense,0.0,0.0,0.8,1.0,0.1,0.0,0.1,0.0,0.0,0.0,0.0,0.8,0.7,0.8,0.1,0.7,0.4,0.8,0.0,0.2
+125,The Talented Mr. Ripley,Patricia Highsmith,1955,Thriller_Suspense,0.0,0.0,0.8,0.9,0.0,0.2,0.0,0.0,0.2,0.7,0.0,0.9,0.8,0.6,0.4,0.6,0.6,0.5,0.1,0.4
+126,Killing Floor (Jack Reacher),Lee Child,1997,Thriller_Suspense,0.0,0.0,0.8,0.9,0.1,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.6,0.9,0.3,0.3,0.3,0.9,0.1,0.4
+127,The Firm,John Grisham,1991,Thriller_Suspense,0.0,0.0,0.7,1.0,0.1,0.0,0.0,0.0,0.6,0.0,0.0,0.2,0.5,0.9,0.3,0.4,0.4,0.9,0.0,0.4
+128,A Time to Kill,John Grisham,1989,Thriller_Suspense,0.0,0.0,0.8,0.8,0.0,0.0,0.0,0.0,0.1,0.2,0.0,0.6,0.8,0.7,0.4,0.9,0.5,0.7,0.0,0.5
+129,The Woman in the Window,A.J. Finn,2018,Thriller_Suspense,0.0,0.0,0.9,1.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.8,0.7,0.8,0.2,0.7,0.4,0.8,0.0,0.2
+130,Bullet Train,Kotaro Isaka,2010,Thriller_Suspense,0.0,0.0,0.6,0.9,0.0,0.0,0.0,0.0,0.9,0.0,0.0,0.3,0.5,1.0,0.3,0.3,0.4,0.9,0.8,0.3
+131,The Shining,Stephen King,1977,Horror_Gothic,0.3,0.0,0.1,0.9,0.0,0.0,1.0,0.0,0.1,0.3,0.0,0.9,0.9,0.6,0.5,0.8,0.6,0.5,0.0,0.4
+132,It,Stephen King,1986,Horror_Gothic,0.4,0.1,0.3,0.8,0.1,0.2,1.0,0.0,0.5,0.2,0.2,0.6,0.9,0.5,0.8,0.8,0.6,0.6,0.1,0.9
+133,Pet Sematary,Stephen King,1983,Horror_Gothic,0.2,0.0,0.0,0.7,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.8,1.0,0.6,0.4,1.0,0.5,0.5,0.0,0.3
+134,Dracula,Bram Stoker,1897,Horror_Gothic,0.5,0.0,0.3,0.6,0.2,0.6,1.0,0.0,0.6,0.9,0.0,0.3,0.8,0.5,0.6,0.6,0.7,0.8,0.0,0.7
+135,Frankenstein,Mary Shelley,1818,Horror_Gothic,0.2,0.8,0.0,0.4,0.1,0.5,1.0,0.0,0.3,1.0,0.0,1.0,0.8,0.4,0.5,0.9,0.8,0.4,0.0,0.6
+136,The Haunting of Hill House,Shirley Jackson,1959,Horror_Gothic,0.1,0.0,0.3,0.7,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.9,0.8,0.4,0.4,0.7,0.8,0.2,0.1,0.3
+137,We Have Always Lived in the Castle,Shirley Jackson,1962,Horror_Gothic,0.0,0.0,0.6,0.6,0.0,0.0,0.8,0.0,0.0,0.8,0.0,0.9,0.7,0.5,0.3,0.6,0.7,0.2,0.3,0.2
+138,The Exorcist,William Peter Blatty,1971,Horror_Gothic,0.2,0.0,0.3,0.8,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.8,0.9,0.7,0.4,0.8,0.6,0.7,0.0,0.4
+139,Interview with the Vampire,Anne Rice,1976,Horror_Gothic,0.7,0.0,0.0,0.2,0.4,0.7,1.0,0.0,0.2,0.4,0.0,0.8,0.8,0.3,0.8,0.8,0.8,0.2,0.0,0.8
+140,Mexican Gothic,Silvia Moreno-Garcia,2020,Horror_Gothic,0.3,0.1,0.6,0.7,0.3,0.6,1.0,0.0,0.2,0.1,0.0,0.4,0.8,0.6,0.6,0.6,0.6,0.7,0.0,0.4
+141,House of Leaves,Mark Z. Danielewski,2000,Horror_Gothic,0.2,0.1,0.6,0.7,0.1,0.0,1.0,0.0,0.1,0.6,0.0,1.0,0.9,0.2,0.9,0.7,1.0,0.4,0.1,0.7
+142,Bird Box,Josh Malerman,2014,Horror_Gothic,0.0,0.4,0.3,1.0,0.0,0.0,0.9,0.8,0.5,0.0,0.0,0.5,0.9,0.9,0.5,0.8,0.4,0.9,0.0,0.4
+143,Coraline,Neil Gaiman,2002,Horror_Gothic,0.9,0.0,0.2,0.6,0.0,0.0,0.8,0.0,0.6,0.2,0.8,0.3,0.6,0.8,0.7,0.5,0.4,0.8,0.2,0.3
+144,The Picture of Dorian Gray,Oscar Wilde,1890,Horror_Gothic,0.3,0.0,0.1,0.2,0.1,0.4,0.8,0.0,0.0,1.0,0.0,1.0,0.8,0.4,0.4,0.7,0.9,0.3,0.6,0.4
+145,Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,Horror_Gothic,0.1,0.4,0.8,0.6,0.0,0.3,0.9,0.0,0.2,0.9,0.0,0.9,0.8,0.8,0.3,0.5,0.6,0.7,0.0,0.3
+146,At the Mountains of Madness,H.P. Lovecraft,1936,Horror_Gothic,0.2,0.7,0.4,0.6,0.0,0.0,1.0,0.0,0.6,0.6,0.0,0.7,0.9,0.4,0.9,0.3,0.8,0.8,0.0,0.8
+147,The Call of Cthulhu,H.P. Lovecraft,1928,Horror_Gothic,0.3,0.4,0.6,0.5,0.0,0.0,1.0,0.0,0.4,0.6,0.0,0.8,0.9,0.6,0.9,0.3,0.8,0.8,0.0,0.8
+148,Salem's Lot,Stephen King,1975,Horror_Gothic,0.3,0.0,0.2,0.8,0.1,0.0,1.0,0.0,0.4,0.1,0.0,0.4,0.8,0.6,0.6,0.6,0.5,0.7,0.0,0.6
+149,I Am Legend,Richard Matheson,1954,Horror_Gothic,0.0,0.8,0.2,0.8,0.0,0.0,0.9,0.9,0.5,0.6,0.0,0.8,0.9,0.8,0.6,0.8,0.5,0.6,0.0,0.5
+150,Carmilla,Sheridan Le Fanu,1872,Horror_Gothic,0.4,0.0,0.3,0.4,0.5,0.4,1.0,0.0,0.1,0.8,0.0,0.4,0.7,0.7,0.5,0.6,0.7,0.6,0.0,0.3
+151,Pride and Prejudice,Jane Austen,1813,Romance,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,1.0,0.0,0.3,0.1,0.5,0.5,0.6,0.8,0.2,0.8,0.4
+152,Jane Eyre,Charlotte Bronte,1847,Romance,0.0,0.0,0.4,0.3,1.0,0.6,0.6,0.0,0.1,1.0,0.0,0.7,0.6,0.4,0.5,0.9,0.8,0.3,0.1,0.6
+153,Wuthering Heights,Emily Bronte,1847,Romance,0.0,0.0,0.1,0.3,0.8,0.6,0.8,0.0,0.0,1.0,0.0,0.8,0.9,0.4,0.5,1.0,0.9,0.2,0.0,0.6
+154,Persuasion,Jane Austen,1817,Romance,0.0,0.0,0.0,0.0,1.0,0.6,0.0,0.0,0.0,1.0,0.0,0.4,0.2,0.3,0.4,0.8,0.8,0.1,0.5,0.3
+155,Emma,Jane Austen,1815,Romance,0.0,0.0,0.2,0.0,1.0,0.6,0.0,0.0,0.0,1.0,0.0,0.3,0.1,0.4,0.5,0.5,0.8,0.2,0.9,0.4
+156,Outlander,Diana Gabaldon,1991,Romance,0.6,0.2,0.0,0.4,1.0,1.0,0.0,0.0,0.8,0.1,0.0,0.2,0.6,0.5,0.9,0.9,0.6,0.6,0.2,0.9
+157,The Notebook,Nicholas Sparks,1996,Romance,0.0,0.0,0.0,0.0,1.0,0.3,0.0,0.0,0.0,0.0,0.0,0.2,0.3,0.6,0.2,1.0,0.3,0.3,0.0,0.4
+158,Me Before You,Jojo Moyes,2012,Romance,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.6,0.2,1.0,0.4,0.2,0.3,0.3
+159,The Time Traveler's Wife,Audrey Niffenegger,2003,Romance,0.2,0.7,0.0,0.2,1.0,0.0,0.0,0.0,0.1,0.4,0.0,0.6,0.6,0.5,0.4,0.9,0.6,0.4,0.1,0.6
+160,Beach Read,Emily Henry,2020,Romance,0.0,0.0,0.1,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.7,0.2,0.7,0.4,0.2,0.8,0.2
+161,Book Lovers,Emily Henry,2022,Romance,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.8,0.2,0.7,0.4,0.2,0.8,0.2
+162,The Love Hypothesis,Ali Hazelwood,2021,Romance,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,0.1,0.8,0.2,0.6,0.3,0.3,0.8,0.2
+163,"Red, White & Royal Blue",Casey McQuiston,2019,Romance,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.0,0.3,0.1,0.1,0.8,0.3,0.7,0.4,0.4,0.8,0.4
+164,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,2017,Romance,0.0,0.0,0.2,0.1,0.9,0.8,0.0,0.0,0.0,0.3,0.0,0.4,0.5,0.8,0.5,0.9,0.5,0.4,0.2,0.7
+165,Daisy Jones & The Six,Taylor Jenkins Reid,2019,Romance,0.0,0.0,0.0,0.0,0.7,0.7,0.0,0.0,0.0,0.2,0.0,0.4,0.5,0.8,0.5,0.8,0.4,0.3,0.2,0.5
+166,Normal People,Sally Rooney,2018,Romance,0.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0,0.7,0.2,0.8,0.6,0.5,0.2,0.9,0.6,0.0,0.1,0.2
+167,Call Me by Your Name,Andre Aciman,2007,Romance,0.0,0.0,0.0,0.0,1.0,0.2,0.0,0.0,0.0,0.8,0.2,0.7,0.4,0.3,0.4,0.9,0.8,0.1,0.1,0.3
+168,The Fault in Our Stars,John Green,2012,Romance,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.1,0.2,1.0,0.6,0.6,0.7,0.2,1.0,0.5,0.3,0.5,0.3
+169,Eleanor & Park,Rainbow Rowell,2013,Romance,0.0,0.0,0.0,0.0,1.0,0.2,0.0,0.0,0.0,0.1,1.0,0.4,0.5,0.6,0.2,0.8,0.4,0.2,0.3,0.2
+170,Bridgerton: The Duke and I,Julia Quinn,2000,Romance,0.0,0.0,0.0,0.0,1.0,0.8,0.0,0.0,0.0,0.0,0.0,0.1,0.2,0.8,0.4,0.6,0.3,0.4,0.7,0.3
+171,The Hating Game,Sally Thorne,2016,Romance,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.8,0.1,0.6,0.3,0.3,0.8,0.2
+172,It Ends with Us,Colleen Hoover,2016,Romance,0.0,0.0,0.0,0.3,0.9,0.0,0.0,0.0,0.0,0.0,0.1,0.6,0.7,0.8,0.1,0.9,0.2,0.4,0.0,0.3
+173,Gone with the Wind,Margaret Mitchell,1936,Romance,0.0,0.0,0.0,0.2,0.9,1.0,0.0,0.0,0.4,0.9,0.0,0.5,0.6,0.4,0.8,0.8,0.7,0.5,0.1,1.0
+174,Anna Karenina,Leo Tolstoy,1878,Romance,0.0,0.0,0.0,0.0,0.9,0.8,0.0,0.0,0.0,1.0,0.0,0.9,0.7,0.2,0.8,0.9,0.9,0.1,0.1,0.9
+175,Love in the Time of Cholera,Gabriel Garcia Marquez,1985,Romance,0.2,0.0,0.0,0.0,1.0,0.7,0.0,0.0,0.0,1.0,0.0,0.7,0.5,0.2,0.7,0.8,0.9,0.1,0.2,0.8
+176,All the Light We Cannot See,Anthony Doerr,2014,Historical,0.0,0.0,0.2,0.4,0.2,1.0,0.0,0.0,0.3,0.8,0.2,0.6,0.7,0.5,0.7,0.9,0.9,0.5,0.0,0.8
+177,The Book Thief,Markus Zusak,2005,Historical,0.2,0.0,0.0,0.2,0.1,1.0,0.0,0.0,0.1,0.7,0.8,0.7,0.8,0.5,0.6,1.0,0.8,0.3,0.2,0.7
+178,The Pillars of the Earth,Ken Follett,1989,Historical,0.0,0.0,0.3,0.5,0.4,1.0,0.0,0.0,0.5,0.3,0.0,0.3,0.7,0.6,0.9,0.8,0.6,0.7,0.0,1.0
+179,Wolf Hall,Hilary Mantel,2009,Historical,0.0,0.0,0.2,0.3,0.1,1.0,0.0,0.0,0.0,0.9,0.0,0.8,0.6,0.2,0.9,0.6,0.9,0.3,0.2,0.8
+180,A Tale of Two Cities,Charles Dickens,1859,Historical,0.0,0.0,0.2,0.5,0.4,1.0,0.0,0.0,0.5,1.0,0.0,0.6,0.7,0.5,0.7,0.8,0.8,0.7,0.1,0.8
+181,War and Peace,Leo Tolstoy,1869,Historical,0.0,0.0,0.0,0.2,0.6,1.0,0.0,0.0,0.5,1.0,0.0,1.0,0.6,0.1,0.9,0.8,0.9,0.3,0.1,1.0
+182,Les Miserables,Victor Hugo,1862,Historical,0.0,0.0,0.4,0.4,0.5,1.0,0.0,0.0,0.5,1.0,0.0,0.9,0.8,0.2,0.8,1.0,0.9,0.5,0.0,1.0
+183,The Nightingale,Kristin Hannah,2015,Historical,0.0,0.0,0.0,0.5,0.4,1.0,0.0,0.0,0.4,0.4,0.0,0.5,0.8,0.7,0.7,1.0,0.5,0.6,0.0,0.8
+184,The Four Winds,Kristin Hannah,2021,Historical,0.0,0.0,0.0,0.1,0.2,1.0,0.0,0.0,0.2,0.4,0.0,0.5,0.8,0.5,0.6,0.9,0.5,0.3,0.0,0.7
+185,Pachinko,Min Jin Lee,2017,Historical,0.0,0.0,0.0,0.0,0.4,1.0,0.0,0.0,0.0,0.8,0.0,0.6,0.7,0.5,0.7,0.9,0.7,0.2,0.0,0.9
+186,The Kite Runner,Khaled Hosseini,2003,Historical,0.0,0.0,0.0,0.3,0.1,0.9,0.0,0.0,0.2,0.7,0.0,0.7,0.9,0.6,0.6,1.0,0.6,0.4,0.0,0.7
+187,A Thousand Splendid Suns,Khaled Hosseini,2007,Historical,0.0,0.0,0.0,0.3,0.3,0.9,0.0,0.0,0.1,0.7,0.0,0.7,0.9,0.6,0.6,1.0,0.6,0.4,0.0,0.7
+188,Memoirs of a Geisha,Arthur Golden,1997,Historical,0.0,0.0,0.0,0.1,0.6,1.0,0.0,0.0,0.1,0.5,0.0,0.4,0.6,0.5,0.8,0.8,0.7,0.3,0.0,0.7
+189,Shogun,James Clavell,1975,Historical,0.0,0.0,0.2,0.6,0.5,1.0,0.0,0.0,0.9,0.5,0.0,0.5,0.7,0.5,1.0,0.7,0.6,0.7,0.0,1.0
+190,"I, Claudius",Robert Graves,1934,Historical,0.0,0.0,0.4,0.4,0.1,1.0,0.0,0.0,0.2,0.8,0.0,0.6,0.7,0.4,0.9,0.5,0.8,0.5,0.3,0.8
+191,The Remains of the Day,Kazuo Ishiguro,1989,Historical,0.0,0.0,0.0,0.0,0.3,0.9,0.0,0.0,0.0,1.0,0.0,0.9,0.5,0.1,0.6,0.8,0.9,0.0,0.2,0.4
+192,Atonement,Ian McEwan,2001,Historical,0.0,0.0,0.3,0.2,0.7,0.9,0.0,0.0,0.2,0.9,0.0,0.8,0.8,0.3,0.6,0.9,0.9,0.3,0.0,0.7
+193,Homegoing,Yaa Gyasi,2016,Historical,0.0,0.0,0.0,0.1,0.2,1.0,0.0,0.0,0.1,0.8,0.0,0.7,0.8,0.6,0.8,0.9,0.8,0.3,0.0,1.0
+194,Beloved,Toni Morrison,1987,Historical,0.3,0.0,0.2,0.2,0.1,1.0,0.6,0.0,0.0,1.0,0.0,0.9,1.0,0.2,0.6,1.0,1.0,0.1,0.0,0.6
+195,The Color Purple,Alice Walker,1982,Historical,0.0,0.0,0.0,0.0,0.3,0.9,0.0,0.0,0.0,1.0,0.0,0.8,0.8,0.5,0.5,1.0,0.7,0.1,0.1,0.6
+196,A Gentleman in Moscow,Amor Towles,2016,Historical,0.0,0.0,0.1,0.1,0.2,1.0,0.0,0.0,0.1,0.8,0.0,0.6,0.3,0.3,0.7,0.7,0.8,0.1,0.6,0.6
+197,The Underground Railroad,Colson Whitehead,2016,Historical,0.3,0.0,0.0,0.6,0.0,1.0,0.3,0.3,0.6,0.9,0.0,0.7,0.9,0.6,0.7,0.9,0.8,0.6,0.0,0.7
+198,Things Fall Apart,Chinua Achebe,1958,Historical,0.0,0.0,0.0,0.1,0.0,1.0,0.0,0.0,0.1,1.0,0.0,0.8,0.8,0.5,0.7,0.8,0.7,0.3,0.0,0.6
+199,Lonesome Dove,Larry McMurtry,1985,Historical,0.0,0.0,0.0,0.3,0.3,1.0,0.0,0.0,0.9,0.8,0.0,0.5,0.7,0.4,0.8,0.9,0.7,0.4,0.4,1.0
+200,Master and Commander,Patrick O'Brian,1969,Historical,0.0,0.0,0.0,0.4,0.0,1.0,0.0,0.0,0.9,0.7,0.0,0.3,0.4,0.4,0.9,0.5,0.9,0.5,0.5,0.8
+201,The Count of Monte Cristo,Alexandre Dumas,1844,Adventure_Action,0.0,0.0,0.6,0.8,0.5,0.9,0.0,0.0,1.0,1.0,0.0,0.6,0.7,0.7,0.8,0.9,0.7,0.8,0.1,1.0
+202,The Three Musketeers,Alexandre Dumas,1844,Adventure_Action,0.0,0.0,0.2,0.5,0.5,0.9,0.0,0.0,1.0,0.9,0.3,0.1,0.3,0.8,0.7,0.5,0.6,0.9,0.6,0.7
+203,Treasure Island,Robert Louis Stevenson,1883,Adventure_Action,0.0,0.0,0.2,0.5,0.0,0.6,0.0,0.0,1.0,0.8,0.8,0.0,0.4,0.9,0.6,0.4,0.5,0.9,0.2,0.5
+204,Moby-Dick,Herman Melville,1851,Adventure_Action,0.1,0.0,0.0,0.3,0.0,0.6,0.2,0.0,0.9,1.0,0.0,1.0,0.8,0.1,0.9,0.7,1.0,0.3,0.2,0.9
+205,The Call of the Wild,Jack London,1903,Adventure_Action,0.0,0.0,0.0,0.4,0.0,0.4,0.0,0.0,1.0,0.8,0.5,0.5,0.6,0.8,0.5,0.7,0.6,0.7,0.0,0.5
+206,Life of Pi,Yann Martel,2001,Adventure_Action,0.4,0.0,0.1,0.5,0.0,0.0,0.0,0.0,0.9,0.7,0.3,0.9,0.6,0.5,0.5,0.8,0.7,0.5,0.3,0.6
+207,Around the World in Eighty Days,Jules Verne,1872,Adventure_Action,0.0,0.1,0.2,0.4,0.2,0.5,0.0,0.0,1.0,0.8,0.5,0.1,0.1,0.9,0.7,0.3,0.5,0.9,0.5,0.7
+208,Twenty Thousand Leagues Under the Seas,Jules Verne,1870,Adventure_Action,0.0,0.8,0.2,0.4,0.0,0.2,0.0,0.0,1.0,0.8,0.4,0.3,0.4,0.6,0.8,0.4,0.6,0.8,0.1,0.8
+209,Journey to the Center of the Earth,Jules Verne,1864,Adventure_Action,0.3,0.8,0.1,0.4,0.0,0.1,0.0,0.0,1.0,0.8,0.5,0.1,0.3,0.7,0.8,0.3,0.5,0.9,0.2,0.7
+210,The Princess Bride,William Goldman,1973,Adventure_Action,0.8,0.0,0.0,0.3,0.8,0.2,0.0,0.0,1.0,0.3,0.5,0.1,0.2,0.9,0.6,0.6,0.5,0.8,1.0,0.6
+211,Don Quixote,Miguel de Cervantes,1605,Adventure_Action,0.2,0.0,0.0,0.0,0.3,0.7,0.0,0.0,0.9,1.0,0.0,0.8,0.3,0.3,0.7,0.6,0.8,0.3,1.0,0.9
+212,The Odyssey,Homer,-700,Adventure_Action,0.9,0.0,0.0,0.3,0.2,0.8,0.1,0.0,1.0,1.0,0.0,0.6,0.5,0.6,0.9,0.7,0.9,0.8,0.1,1.0
+213,Watership Down,Richard Adams,1972,Adventure_Action,0.6,0.0,0.0,0.6,0.0,0.0,0.1,0.3,1.0,0.7,0.5,0.5,0.6,0.6,0.8,0.8,0.6,0.8,0.0,0.8
+214,The Lost World,Arthur Conan Doyle,1912,Adventure_Action,0.2,0.7,0.1,0.5,0.0,0.2,0.0,0.0,1.0,0.6,0.4,0.1,0.3,0.8,0.7,0.3,0.5,0.9,0.3,0.6
+215,King Solomon's Mines,H. Rider Haggard,1885,Adventure_Action,0.3,0.0,0.2,0.5,0.1,0.4,0.0,0.0,1.0,0.6,0.3,0.0,0.4,0.8,0.7,0.3,0.5,0.9,0.1,0.6
+216,Into Thin Air,Jon Krakauer,1997,Adventure_Action,0.0,0.0,0.1,0.8,0.0,0.2,0.0,0.0,1.0,0.3,0.0,0.5,0.8,0.8,0.5,0.8,0.6,0.8,0.0,0.6
+217,Endurance: Shackleton's Incredible Voyage,Alfred Lansing,1959,Adventure_Action,0.0,0.0,0.0,0.8,0.0,0.8,0.0,0.0,1.0,0.4,0.0,0.4,0.7,0.8,0.6,0.8,0.6,0.8,0.0,0.8
+218,Papillon,Henri Charriere,1969,Adventure_Action,0.0,0.0,0.4,0.7,0.0,0.5,0.0,0.0,1.0,0.4,0.0,0.5,0.7,0.7,0.6,0.7,0.5,0.8,0.1,0.8
+219,Shantaram,Gregory David Roberts,2003,Adventure_Action,0.0,0.0,0.6,0.6,0.5,0.2,0.0,0.0,0.9,0.4,0.0,0.8,0.7,0.5,0.8,0.8,0.7,0.5,0.2,0.9
+220,Jaws,Peter Benchley,1974,Adventure_Action,0.0,0.0,0.1,0.9,0.1,0.0,0.6,0.0,0.9,0.1,0.0,0.2,0.7,0.9,0.3,0.5,0.4,0.9,0.0,0.4
+221,To Kill a Mockingbird,Harper Lee,1960,Literary_Classic,0.0,0.0,0.4,0.2,0.0,0.7,0.0,0.0,0.1,1.0,0.4,0.8,0.6,0.5,0.5,0.9,0.7,0.3,0.3,0.5
+222,The Great Gatsby,F. Scott Fitzgerald,1925,Literary_Classic,0.0,0.0,0.2,0.1,0.6,0.6,0.0,0.0,0.0,1.0,0.0,0.7,0.6,0.6,0.5,0.8,0.9,0.2,0.2,0.4
+223,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,Literary_Classic,0.7,0.0,0.0,0.0,0.4,0.8,0.0,0.0,0.2,1.0,0.0,0.9,0.6,0.3,0.9,0.8,1.0,0.2,0.3,1.0
+224,The Catcher in the Rye,J.D. Salinger,1951,Literary_Classic,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,1.0,0.6,0.9,0.6,0.5,0.2,0.8,0.6,0.0,0.5,0.2
+225,The Grapes of Wrath,John Steinbeck,1939,Literary_Classic,0.0,0.0,0.0,0.1,0.0,0.9,0.0,0.0,0.3,1.0,0.0,0.9,0.9,0.3,0.6,0.9,0.8,0.2,0.0,0.8
+226,East of Eden,John Steinbeck,1952,Literary_Classic,0.0,0.0,0.0,0.1,0.3,0.8,0.0,0.0,0.1,1.0,0.0,0.9,0.7,0.4,0.7,0.9,0.8,0.3,0.1,0.9
+227,Of Mice and Men,John Steinbeck,1937,Literary_Classic,0.0,0.0,0.0,0.2,0.0,0.6,0.0,0.0,0.0,1.0,0.2,0.8,0.8,0.7,0.3,1.0,0.6,0.3,0.0,0.2
+228,Catch-22,Joseph Heller,1961,Literary_Classic,0.0,0.0,0.0,0.1,0.0,0.8,0.0,0.2,0.3,1.0,0.0,0.9,0.8,0.4,0.5,0.7,0.9,0.2,1.0,0.7
+229,Lolita,Vladimir Nabokov,1955,Literary_Classic,0.0,0.0,0.2,0.2,0.0,0.2,0.0,0.0,0.1,1.0,0.0,1.0,0.9,0.3,0.3,0.7,1.0,0.1,0.4,0.4
+230,Ulysses,James Joyce,1922,Literary_Classic,0.0,0.0,0.0,0.0,0.1,0.4,0.0,0.0,0.0,1.0,0.0,1.0,0.4,0.1,0.6,0.5,1.0,0.0,0.6,0.5
+231,Madame Bovary,Gustave Flaubert,1856,Literary_Classic,0.0,0.0,0.0,0.0,0.6,0.6,0.0,0.0,0.0,1.0,0.0,0.8,0.7,0.3,0.4,0.7,0.8,0.1,0.2,0.4
+232,Middlemarch,George Eliot,1871,Literary_Classic,0.0,0.0,0.0,0.0,0.6,0.7,0.0,0.0,0.0,1.0,0.0,0.9,0.4,0.2,0.7,0.7,0.9,0.1,0.4,0.8
+233,Great Expectations,Charles Dickens,1861,Literary_Classic,0.0,0.0,0.4,0.2,0.5,0.7,0.3,0.0,0.3,1.0,0.2,0.6,0.6,0.5,0.6,0.7,0.8,0.4,0.4,0.7
+234,David Copperfield,Charles Dickens,1850,Literary_Classic,0.0,0.0,0.1,0.1,0.4,0.7,0.0,0.0,0.3,1.0,0.2,0.6,0.5,0.4,0.7,0.8,0.8,0.3,0.5,0.8
+235,Little Women,Louisa May Alcott,1868,Literary_Classic,0.0,0.0,0.0,0.0,0.6,0.7,0.0,0.0,0.0,1.0,0.6,0.4,0.2,0.5,0.4,0.8,0.5,0.1,0.4,0.5
+236,The Old Man and the Sea,Ernest Hemingway,1952,Literary_Classic,0.0,0.0,0.0,0.2,0.0,0.1,0.0,0.0,0.7,1.0,0.2,0.9,0.5,0.5,0.3,0.8,0.5,0.4,0.0,0.3
+237,The Sun Also Rises,Ernest Hemingway,1926,Literary_Classic,0.0,0.0,0.0,0.0,0.4,0.5,0.0,0.0,0.2,1.0,0.0,0.8,0.6,0.4,0.4,0.7,0.6,0.1,0.1,0.4
+238,To the Lighthouse,Virginia Woolf,1927,Literary_Classic,0.0,0.0,0.0,0.0,0.1,0.3,0.0,0.0,0.0,1.0,0.0,1.0,0.5,0.1,0.3,0.8,1.0,0.0,0.0,0.3
+239,Mrs Dalloway,Virginia Woolf,1925,Literary_Classic,0.0,0.0,0.0,0.0,0.2,0.3,0.0,0.0,0.0,1.0,0.0,1.0,0.6,0.2,0.3,0.8,1.0,0.0,0.1,0.3
+240,The Sound and the Fury,William Faulkner,1929,Literary_Classic,0.0,0.0,0.0,0.0,0.0,0.4,0.2,0.0,0.0,1.0,0.0,1.0,0.9,0.1,0.5,0.8,1.0,0.0,0.0,0.5
+241,Invisible Man,Ralph Ellison,1952,Literary_Classic,0.0,0.0,0.0,0.2,0.0,0.5,0.0,0.0,0.2,1.0,0.0,1.0,0.8,0.4,0.6,0.9,0.9,0.2,0.3,0.7
+242,Midnight's Children,Salman Rushdie,1981,Literary_Classic,0.7,0.0,0.0,0.1,0.2,0.9,0.0,0.0,0.3,1.0,0.0,0.8,0.6,0.3,0.9,0.7,1.0,0.3,0.6,1.0
+243,The God of Small Things,Arundhati Roy,1997,Literary_Classic,0.0,0.0,0.2,0.1,0.4,0.6,0.0,0.0,0.0,1.0,0.0,0.8,0.8,0.3,0.6,0.9,0.9,0.2,0.1,0.5
+244,A Fine Balance,Rohinton Mistry,1995,Literary_Classic,0.0,0.0,0.0,0.1,0.1,0.9,0.0,0.0,0.1,0.9,0.0,0.8,0.9,0.4,0.7,1.0,0.7,0.2,0.1,0.8
+245,The Goldfinch,Donna Tartt,2013,Literary_Classic,0.0,0.0,0.6,0.4,0.2,0.0,0.0,0.0,0.3,0.9,0.0,0.8,0.7,0.3,0.6,0.8,0.9,0.2,0.2,0.8
+246,A Little Life,Hanya Yanagihara,2015,Literary_Classic,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.8,0.0,0.9,1.0,0.2,0.4,1.0,0.8,0.0,0.0,0.7
+247,"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,2022,Literary_Classic,0.0,0.0,0.0,0.0,0.5,0.2,0.0,0.0,0.0,0.7,0.0,0.6,0.5,0.6,0.5,0.8,0.6,0.2,0.3,0.6
+248,A Man Called Ove,Fredrik Backman,2012,Literary_Classic,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.5,0.0,0.6,0.4,0.6,0.2,0.9,0.4,0.1,0.8,0.2
+249,Anxious People,Fredrik Backman,2019,Literary_Classic,0.0,0.0,0.5,0.1,0.2,0.0,0.0,0.0,0.0,0.4,0.0,0.6,0.3,0.7,0.2,0.8,0.4,0.3,0.9,0.2
+250,Where the Crawdads Sing,Delia Owens,2018,Literary_Classic,0.0,0.0,0.7,0.4,0.6,0.5,0.0,0.0,0.2,0.5,0.2,0.4,0.6,0.6,0.6,0.8,0.6,0.4,0.0,0.5
+251,My Brilliant Friend,Elena Ferrante,2011,Literary_Classic,0.0,0.0,0.0,0.1,0.3,0.7,0.0,0.0,0.0,0.9,0.0,0.8,0.7,0.4,0.6,0.9,0.7,0.1,0.0,0.7
+252,Norwegian Wood,Haruki Murakami,1987,Literary_Classic,0.0,0.0,0.0,0.0,0.8,0.3,0.0,0.0,0.0,0.8,0.0,0.9,0.8,0.3,0.3,0.9,0.7,0.0,0.1,0.3
+253,Kafka on the Shore,Haruki Murakami,2002,Literary_Classic,0.7,0.0,0.4,0.2,0.2,0.0,0.1,0.0,0.3,0.9,0.0,1.0,0.6,0.4,0.7,0.7,0.8,0.2,0.3,0.6
+254,The Wind-Up Bird Chronicle,Haruki Murakami,1994,Literary_Classic,0.6,0.0,0.6,0.3,0.1,0.4,0.2,0.0,0.2,0.9,0.0,1.0,0.7,0.2,0.7,0.7,0.8,0.2,0.2,0.7
+255,White Teeth,Zadie Smith,2000,Literary_Classic,0.0,0.0,0.0,0.0,0.2,0.5,0.0,0.0,0.0,0.9,0.0,0.7,0.4,0.5,0.5,0.6,0.8,0.2,0.8,0.7
+256,Crime and Punishment,Fyodor Dostoevsky,1866,Philosophical_Psychological,0.0,0.0,0.8,0.6,0.1,0.5,0.0,0.0,0.0,1.0,0.0,1.0,0.9,0.3,0.5,0.9,0.9,0.2,0.0,0.6
+257,The Brothers Karamazov,Fyodor Dostoevsky,1880,Philosophical_Psychological,0.0,0.0,0.6,0.3,0.2,0.5,0.0,0.0,0.0,1.0,0.0,1.0,0.8,0.1,0.7,0.9,1.0,0.1,0.1,0.9
+258,The Stranger,Albert Camus,1942,Philosophical_Psychological,0.0,0.0,0.4,0.2,0.0,0.1,0.0,0.0,0.0,1.0,0.0,1.0,0.8,0.6,0.2,0.3,0.6,0.1,0.1,0.2
+259,The Plague,Albert Camus,1947,Philosophical_Psychological,0.0,0.0,0.0,0.3,0.0,0.2,0.1,0.5,0.0,1.0,0.0,1.0,0.8,0.3,0.4,0.7,0.8,0.2,0.0,0.6
+260,The Metamorphosis,Franz Kafka,1915,Philosophical_Psychological,0.5,0.0,0.0,0.1,0.0,0.0,0.5,0.0,0.0,1.0,0.0,1.0,0.9,0.6,0.2,0.8,0.7,0.1,0.4,0.1
+261,The Trial,Franz Kafka,1925,Philosophical_Psychological,0.1,0.0,0.5,0.5,0.0,0.0,0.2,0.7,0.0,1.0,0.0,1.0,0.9,0.3,0.4,0.6,0.8,0.2,0.4,0.3
+262,Siddhartha,Hermann Hesse,1922,Philosophical_Psychological,0.1,0.0,0.0,0.0,0.1,0.5,0.0,0.0,0.3,1.0,0.2,1.0,0.2,0.4,0.5,0.7,0.7,0.1,0.0,0.5
+263,Steppenwolf,Hermann Hesse,1927,Philosophical_Psychological,0.3,0.0,0.0,0.0,0.2,0.1,0.0,0.0,0.0,0.9,0.0,1.0,0.8,0.3,0.4,0.8,0.9,0.0,0.2,0.3
+264,The Alchemist,Paulo Coelho,1988,Philosophical_Psychological,0.6,0.0,0.0,0.0,0.2,0.1,0.0,0.0,0.7,0.6,0.5,0.9,0.1,0.7,0.4,0.6,0.2,0.4,0.1,0.5
+265,The Unbearable Lightness of Being,Milan Kundera,1984,Philosophical_Psychological,0.0,0.0,0.0,0.0,0.8,0.5,0.0,0.0,0.0,0.9,0.0,1.0,0.6,0.3,0.4,0.8,0.8,0.0,0.2,0.5
+266,The Master and Margarita,Mikhail Bulgakov,1967,Philosophical_Psychological,0.9,0.0,0.1,0.2,0.5,0.6,0.3,0.2,0.4,1.0,0.0,0.9,0.6,0.6,0.7,0.7,0.8,0.5,0.9,0.8
+267,Ficciones,Jorge Luis Borges,1944,Philosophical_Psychological,0.7,0.2,0.6,0.1,0.0,0.1,0.0,0.0,0.1,1.0,0.0,1.0,0.5,0.5,0.9,0.3,1.0,0.5,0.3,0.7
+268,The Little Prince,Antoine de Saint-Exupery,1943,Philosophical_Psychological,0.8,0.2,0.0,0.0,0.1,0.0,0.0,0.0,0.5,1.0,0.8,0.9,0.2,0.8,0.6,0.8,0.3,0.2,0.3,0.4
+269,Sophie's World,Jostein Gaarder,1991,Philosophical_Psychological,0.4,0.0,0.6,0.1,0.0,0.6,0.0,0.0,0.2,0.5,0.7,1.0,0.2,0.4,0.6,0.4,0.6,0.4,0.2,0.8
+270,Fight Club,Chuck Palahniuk,1996,Philosophical_Psychological,0.0,0.0,0.5,0.9,0.1,0.0,0.3,0.4,0.4,0.6,0.0,1.0,0.9,0.9,0.3,0.7,0.7,0.6,0.7,0.4
+271,American Psycho,Bret Easton Ellis,1991,Philosophical_Psychological,0.0,0.0,0.4,0.7,0.0,0.1,0.9,0.0,0.0,0.6,0.0,0.9,1.0,0.4,0.3,0.5,0.7,0.1,0.8,0.3
+272,One Flew Over the Cuckoo's Nest,Ken Kesey,1962,Philosophical_Psychological,0.0,0.0,0.0,0.3,0.0,0.1,0.0,0.3,0.1,0.9,0.0,1.0,0.8,0.5,0.3,0.9,0.7,0.3,0.4,0.4
+273,The Bell Jar,Sylvia Plath,1963,Philosophical_Psychological,0.0,0.0,0.0,0.0,0.1,0.2,0.0,0.0,0.0,0.9,0.2,1.0,0.9,0.4,0.2,0.9,0.8,0.0,0.2,0.2
+274,Flowers for Algernon,Daniel Keyes,1966,Philosophical_Psychological,0.0,0.8,0.0,0.1,0.2,0.0,0.0,0.0,0.0,0.8,0.3,1.0,0.7,0.6,0.2,1.0,0.6,0.2,0.0,0.2
+275,The Midnight Library,Matt Haig,2020,Philosophical_Psychological,0.7,0.3,0.0,0.1,0.2,0.0,0.0,0.0,0.2,0.2,0.2,0.9,0.4,0.8,0.5,0.8,0.3,0.4,0.2,0.5
+276,Man's Search for Meaning,Viktor E. Frankl,1946,Philosophical_Psychological,0.0,0.0,0.0,0.1,0.0,0.9,0.0,0.0,0.0,0.9,0.0,1.0,0.9,0.6,0.4,1.0,0.6,0.1,0.0,0.5
+277,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,1974,Philosophical_Psychological,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.8,0.0,1.0,0.5,0.2,0.3,0.6,0.9,0.0,0.1,0.5
+278,Atlas Shrugged,Ayn Rand,1957,Philosophical_Psychological,0.0,0.5,0.4,0.4,0.4,0.0,0.0,0.7,0.3,0.7,0.0,1.0,0.6,0.2,0.7,0.5,0.8,0.6,0.0,1.0
+279,The Fountainhead,Ayn Rand,1943,Philosophical_Psychological,0.0,0.0,0.0,0.2,0.4,0.2,0.0,0.0,0.1,0.8,0.0,1.0,0.6,0.3,0.4,0.6,0.7,0.4,0.0,0.8
+280,Candide,Voltaire,1759,Philosophical_Psychological,0.2,0.0,0.0,0.1,0.2,0.5,0.0,0.0,0.8,1.0,0.0,1.0,0.5,0.9,0.5,0.3,0.6,0.7,1.0,0.6
+281,Percy Jackson & the Olympians: The Lightning Thief,Rick Riordan,2005,Young_Adult,1.0,0.0,0.4,0.4,0.1,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.2,1.0,0.8,0.5,0.2,0.9,0.8,0.7
+282,The Perks of Being a Wallflower,Stephen Chbosky,1999,Young_Adult,0.0,0.0,0.0,0.0,0.5,0.1,0.0,0.0,0.0,0.4,1.0,0.8,0.7,0.7,0.1,0.9,0.4,0.1,0.2,0.2
+283,The Outsiders,S.E. Hinton,1967,Young_Adult,0.0,0.0,0.3,0.5,0.1,0.3,0.0,0.0,0.4,0.7,1.0,0.5,0.7,0.8,0.2,0.9,0.3,0.5,0.0,0.3
+284,The Golden Compass (His Dark Materials),Philip Pullman,1995,Young_Adult,1.0,0.3,0.3,0.5,0.0,0.0,0.0,0.2,1.0,0.6,1.0,0.8,0.6,0.7,1.0,0.8,0.7,0.8,0.1,0.9
+285,Eragon,Christopher Paolini,2002,Young_Adult,1.0,0.0,0.0,0.3,0.2,0.0,0.0,0.0,1.0,0.0,1.0,0.1,0.4,0.7,0.9,0.6,0.5,0.8,0.1,0.9
+286,Throne of Glass,Sarah J. Maas,2012,Young_Adult,1.0,0.0,0.5,0.5,0.7,0.0,0.0,0.0,0.9,0.0,1.0,0.0,0.5,0.8,0.8,0.7,0.4,0.8,0.3,0.8
+287,Shadow and Bone,Leigh Bardugo,2012,Young_Adult,1.0,0.0,0.1,0.4,0.7,0.0,0.0,0.1,0.8,0.0,1.0,0.0,0.5,0.8,0.8,0.6,0.4,0.8,0.2,0.7
+288,The Cruel Prince,Holly Black,2018,Young_Adult,1.0,0.0,0.3,0.6,0.7,0.0,0.1,0.0,0.7,0.0,1.0,0.1,0.7,0.8,0.8,0.6,0.5,0.8,0.2,0.6
+289,City of Bones (The Mortal Instruments),Cassandra Clare,2007,Young_Adult,1.0,0.0,0.4,0.5,0.8,0.0,0.2,0.0,0.9,0.0,1.0,0.0,0.5,0.8,0.8,0.6,0.4,0.8,0.4,0.7
+290,Twilight,Stephenie Meyer,2005,Young_Adult,0.8,0.0,0.1,0.4,1.0,0.0,0.3,0.0,0.3,0.0,1.0,0.0,0.4,0.8,0.5,0.8,0.2,0.5,0.1,0.4
+291,The Hate U Give,Angie Thomas,2017,Young_Adult,0.0,0.0,0.2,0.3,0.2,0.0,0.0,0.0,0.0,0.4,1.0,0.7,0.8,0.7,0.3,0.9,0.4,0.4,0.2,0.5
+292,Looking for Alaska,John Green,2005,Young_Adult,0.0,0.0,0.3,0.0,0.7,0.0,0.0,0.0,0.0,0.2,1.0,0.7,0.6,0.7,0.2,0.9,0.4,0.2,0.5,0.2
+293,Anne of Green Gables,L.M. Montgomery,1908,Young_Adult,0.0,0.0,0.0,0.0,0.2,0.6,0.0,0.0,0.1,0.9,0.9,0.2,0.0,0.6,0.4,0.7,0.5,0.1,0.7,0.3
+294,The Secret Garden,Frances Hodgson Burnett,1911,Young_Adult,0.1,0.0,0.3,0.0,0.0,0.5,0.1,0.0,0.1,0.9,0.9,0.3,0.2,0.5,0.4,0.7,0.5,0.2,0.2,0.3
+295,Holes,Louis Sachar,1998,Young_Adult,0.2,0.0,0.6,0.2,0.0,0.3,0.0,0.0,0.6,0.4,1.0,0.2,0.3,0.9,0.4,0.5,0.3,0.8,0.7,0.4
+296,A Wrinkle in Time,Madeleine L'Engle,1962,Young_Adult,0.7,0.8,0.2,0.4,0.0,0.0,0.0,0.2,0.8,0.7,1.0,0.6,0.4,0.8,0.8,0.7,0.5,0.8,0.1,0.8
+297,Matilda,Roald Dahl,1988,Young_Adult,0.6,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.4,0.6,0.9,0.1,0.2,0.9,0.3,0.5,0.3,0.6,0.9,0.2
+298,Artemis Fowl,Eoin Colfer,2001,Young_Adult,0.9,0.5,0.6,0.6,0.0,0.0,0.0,0.0,0.9,0.0,1.0,0.0,0.3,0.9,0.8,0.3,0.4,0.9,0.8,0.5
+299,Inkheart,Cornelia Funke,2003,Young_Adult,1.0,0.0,0.2,0.5,0.0,0.0,0.1,0.0,0.9,0.1,1.0,0.1,0.4,0.7,0.8,0.6,0.5,0.8,0.2,0.7
+300,Children of Blood and Bone,Tomi Adeyemi,2018,Young_Adult,1.0,0.0,0.0,0.5,0.5,0.0,0.0,0.3,0.9,0.0,1.0,0.2,0.7,0.8,0.9,0.8,0.5,0.8,0.1,0.8
